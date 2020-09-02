@@ -1,0 +1,12 @@
+<svg width="245" height="373" viewBox="0 0 245 373" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="44.5" cy="120.5" r="33.5" fill="white"/>
+<rect x="166" width="10" height="361" fill="white"/>
+<rect x="97" y="361" width="148" height="12" rx="6" fill="white"/>
+<rect x="36" width="140" height="3" fill="white"/>
+<rect x="38" y="138" width="12" height="129" rx="6" fill="white"/>
+<rect x="41.1117" y="254" width="12" height="89.4561" rx="6" transform="rotate(21.1688 41.1117 254)" fill="white"/>
+<rect x="38.1013" y="176" width="6.98603" height="89.4561" rx="3.49301" transform="rotate(25.209 38.1013 176)" fill="white"/>
+<rect x="43" y="180.517" width="6.98603" height="89.4561" rx="3.49301" transform="rotate(-40.2844 43 180.517)" fill="white"/>
+<rect x="36" y="260.929" width="12" height="100" rx="6" transform="rotate(-35.2677 36 260.929)" fill="white"/>
+<path d="M39 2.5C32.1667 10.8333 19.9 30.6 25.5 43C32.5 58.5 42.5 68.5 46 68.5C49.5 68.5 29.5 62.5 27.5 65.5C25.5 68.5 56 74.5 51 71.5C46 68.5 14.5 67 23.5 71.5C32.5 76 51 80.5 51 77.5M51 77.5C51 74.5 19.5 70.5 23.5 75.5C27.5 80.5 94 77.5 81.5 133.5C69 189.5 -13.5 144.165 6 106.5C21.6 76.3681 42.5 74.6117 51 77.5Z" stroke="white" stroke-width="5"/>
+</svg>
